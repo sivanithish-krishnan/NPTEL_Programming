@@ -1,1 +1,0 @@
-# NPTEL_Programming
