@@ -3,10 +3,10 @@
 
 
 #include <stdio.h>
- int main()
+int main()
 {
-    int N; 
-    scanf("%d",&N); /*The number is accepted from the test case data*/
+   int N; 
+   scanf("%d",&N); /*The number is accepted from the test case data*/
 
 /* Complete the rest of the code.*/
   int count=0,n;
