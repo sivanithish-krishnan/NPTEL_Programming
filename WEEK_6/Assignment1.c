@@ -1,3 +1,9 @@
+/*Write a C Program to find Largest Element of an Integer Array.
+Here the number of elements in the array ‘n’ and the elements of the array is read from the test data.
+Use the printf statement given below to print the largest element.
+
+printf("Largest element = %d", largest);*/
+
 #include <stdio.h>
 
 int main()
